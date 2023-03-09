@@ -1,0 +1,24 @@
+{
+  "name": "webd6201-lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BladeLucas/webd6201-lab3.git"
+  },
+  "author": "Blade Lucas & Darren Dickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BladeLucas/webd6201-lab3/issues"
+  },
+  "homepage": "https://github.com/BladeLucas/webd6201-lab3#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.6.4"
+  }
+}
